@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>Resources/DefaultLogo.png</file>
+        <file>Resources/GigaSOFTLogo.png</file>
+        <file>Resources/Open.png</file>
+        <file>Resources/Save.png</file>
+        <file>Resources/Shortcut.png</file>
+    </qresource>
+</RCC>
