@@ -21,13 +21,6 @@ Drag one or more files (directories are not supported) to DropBoxPlugin.exe. Fil
 
 Create a Shortcut to file DropBoxPlugin.exe with parameter /move (example: "c:\Program Files\DropBoxPlugin.exe" /move). Files will be moved into your Dropbox public folder on drop to this shortcut. Place the newly created shortcut into your Send-To menu by going to Start -> Run -> shell:sendto (or press buttons win+r and than type command shell:sendto).
 
-
-Links 
-
-All new versions of DropBoxPlugin you can download from this link: http://dropboxplugin.gigasoftgroup.com/ 
-
-Discuss at forum: http://forums.dropbox.com/topic.php?id=8372 
-
 Change log 
 
 v1.0 - First Version Released 
